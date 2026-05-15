@@ -130,12 +130,6 @@ Build > Generate APK
 <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/3a2fcdf8-94f7-455c-8512-d35a9714c235" />
 
 
-Example:
-
-```markdown
-![Home Screen](screenshots/home.png)
-![Courses](screenshots/courses.png)
-```
 
 ---
 
@@ -166,6 +160,4 @@ NammaSkill is a skill development and learning platform designed as an Android a
 
 ---
 
-# Author
 
-Developed as an academic mini project using Android Studio.
