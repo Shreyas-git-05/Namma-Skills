@@ -77,7 +77,7 @@ Make sure the following software is installed:
 1. Download or clone the repository:
 
 ```bash
-git clone https://github.com/your-username/NammaSkill.git
+git clone https://github.com/Shreyas-git-05/Namma-Skills.git
 ```
 
 2. Open Android Studio.
@@ -120,18 +120,6 @@ Build > Generate APK
 
 ---
 
-# Screenshots
-
-Add application screenshots in this section.
-
-Example:
-
-```markdown
-![Home Screen](screenshots/home.png)
-![Courses](screenshots/courses.png)
-```
-
----
 
 ## Future Improvements
 
@@ -160,6 +148,4 @@ NammaSkill is a skill development and learning platform designed as an Android a
 
 ---
 
-# Author
 
-Developed as an academic mini project using Android Studio.
