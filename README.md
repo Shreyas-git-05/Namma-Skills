@@ -139,7 +139,6 @@ Build > Generate APK
 * Online course integration
 * AI-based recommendations
 * Cloud database integration
-* Notification system
 * Multi-language support
 
 ---
