@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Namma-Skill</string>
+
+    <!-- Replace with your own key if you want map tiles to show -->
+    <string name="google_maps_key">YOUR_API_KEY_HERE</string>
+
+    <string name="nav_courses">Courses</string>
+    <string name="nav_centers">Centers</string>
+    <string name="nav_stories">Stories</string>
+    <string name="nav_profile">Profile</string>
+
+    <string name="filter_trade">Trade</string>
+    <string name="filter_duration">Duration</string>
+    <string name="short_term">Short term</string>
+    <string name="long_term">Long term</string>
+
+    <string name="apply">Apply</string>
+    <string name="interested">I\'m interested</string>
+    <string name="share_summary">Share summary</string>
+    <string name="confirm_apply">Confirm apply</string>
+
+    <string name="open_google_maps_title">Open centers in Google Maps</string>
+    <string name="open_google_maps_body">To avoid Google Cloud billing/API keys inside this app, we will open the external Google Maps app directly.</string>
+    <string name="open_google_maps">Open Google Maps</string>
+
+    <string name="hero_title">Find job-ready courses near you</string>
+    <string name="hero_subtitle">Explore upcoming batches, filter by trade and duration, and apply in one tap.</string>
+    <string name="search_hint">Search course, center, eligibility…</string>
+</resources>

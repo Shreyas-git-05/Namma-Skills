@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/coursesFragment"
+        android:icon="@drawable/ic_nav_courses"
+        android:title="Explore" />
+
+    <item
+        android:id="@+id/mapFragment"
+        android:icon="@drawable/ic_nav_map"
+        android:title="Centers" />
+
+    <item
+        android:id="@+id/storiesFragment"
+        android:icon="@drawable/ic_nav_stories"
+        android:title="Stories" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_nav_profile"
+        android:title="Profile" />
+
+</menu>

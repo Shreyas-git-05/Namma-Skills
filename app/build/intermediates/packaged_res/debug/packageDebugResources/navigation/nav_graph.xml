@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/coursesFragment">
+
+    <fragment
+        android:id="@+id/coursesFragment"
+        android:name="com.nammaskill.app.ui.courses.CoursesFragment"
+        android:label="@string/nav_courses" />
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.nammaskill.app.ui.map.CenterMapFragment"
+        android:label="@string/nav_centers" />
+
+    <fragment
+        android:id="@+id/storiesFragment"
+        android:name="com.nammaskill.app.ui.stories.StoriesFragment"
+        android:label="@string/nav_stories" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.nammaskill.app.ui.profile.ProfileFragment"
+        android:label="@string/nav_profile" />
+</navigation>
+

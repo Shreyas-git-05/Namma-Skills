@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background">#F8FAFC</color>
+    <color name="black">#000000</color>
+    <color name="ic_launcher_background">#1E6F5C</color>
+    <color name="namma_primary">#2563EB</color>
+    <color name="namma_primary_dark">#1D4ED8</color>
+    <color name="namma_primary_light">#DBEAFE</color>
+    <color name="namma_secondary">#10B981</color>
+    <color name="namma_secondary_dark">#059669</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Namma-Skill</string>
+    <string name="apply">Apply</string>
+    <string name="confirm_apply">Confirm apply</string>
+    <string name="filter_duration">Duration</string>
+    <string name="filter_trade">Trade</string>
+    <string name="google_maps_key">YOUR_API_KEY_HERE</string>
+    <string name="hero_subtitle">Explore upcoming batches, filter by trade and duration, and apply in one tap.</string>
+    <string name="hero_title">Find job-ready courses near you</string>
+    <string name="interested">I\'m interested</string>
+    <string name="long_term">Long term</string>
+    <string name="nav_centers">Centers</string>
+    <string name="nav_courses">Courses</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_stories">Stories</string>
+    <string name="open_google_maps">Open Google Maps</string>
+    <string name="open_google_maps_body">To avoid Google Cloud billing/API keys inside this app, we will open the external Google Maps app directly.</string>
+    <string name="open_google_maps_title">Open centers in Google Maps</string>
+    <string name="search_hint">Search course, center, eligibility…</string>
+    <string name="share_summary">Share summary</string>
+    <string name="short_term">Short term</string>
+    <style name="Theme.NammaSkill" parent="Theme.Material3.DayNight.NoActionBar">
+
+        
+
+        <item name="colorPrimary">@color/namma_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+
+        <item name="colorSecondary">@color/namma_secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        
+
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+
+        
+
+        <item name="android:statusBarColor" ns1:targetApi="l">@android:color/transparent</item>
+
+        <item name="android:navigationBarColor" ns1:targetApi="l">@android:color/white</item>
+
+        
+
+        <item name="textInputStyle">@style/Widget.Material3.TextInputLayout.OutlinedBox</item>
+
+        
+
+        <item name="materialButtonStyle">@style/Widget.Material3.Button</item>
+
+        
+
+        <item name="materialCardViewStyle">@style/Widget.Material3.CardView.Elevated</item>
+
+        
+
+        <item name="colorControlHighlight">@color/namma_primary_light</item>
+
+    </style>
+</resources>

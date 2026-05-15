@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.nammaskill.app-debug-63:/layout_fragment_profile.xml.flat",
+        "source": "com.nammaskill.app-main-65:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nammaskill.app-main-65:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/drawable_ic_nav_stories.xml.flat",
+        "source": "com.nammaskill.app-main-65:/drawable/ic_nav_stories.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/mipmap_ic_launcher.xml.flat",
+        "source": "com.nammaskill.app-main-65:/mipmap/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/navigation_nav_graph.xml.flat",
+        "source": "com.nammaskill.app-main-65:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/layout_activity_main.xml.flat",
+        "source": "com.nammaskill.app-main-65:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nammaskill.app-main-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/drawable_ic_nav_map.xml.flat",
+        "source": "com.nammaskill.app-main-65:/drawable/ic_nav_map.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/xml_backup_rules.xml.flat",
+        "source": "com.nammaskill.app-main-65:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/layout_item_course.xml.flat",
+        "source": "com.nammaskill.app-main-65:/layout/item_course.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/layout_fragment_stories.xml.flat",
+        "source": "com.nammaskill.app-main-65:/layout/fragment_stories.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/drawable_ic_nav_profile.xml.flat",
+        "source": "com.nammaskill.app-main-65:/drawable/ic_nav_profile.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/drawable_ic_story_placeholder.xml.flat",
+        "source": "com.nammaskill.app-main-65:/drawable/ic_story_placeholder.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/layout_fragment_map.xml.flat",
+        "source": "com.nammaskill.app-main-65:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.nammaskill.app-main-65:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/drawable_ic_nav_courses.xml.flat",
+        "source": "com.nammaskill.app-main-65:/drawable/ic_nav_courses.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.nammaskill.app-main-65:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/layout_fragment_courses.xml.flat",
+        "source": "com.nammaskill.app-main-65:/layout/fragment_courses.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/xml_data_extraction_rules.xml.flat",
+        "source": "com.nammaskill.app-main-65:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/layout_item_story.xml.flat",
+        "source": "com.nammaskill.app-main-65:/layout/item_story.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-debug-63:/mipmap_ic_launcher_round.xml.flat",
+        "source": "com.nammaskill.app-main-65:/mipmap/ic_launcher_round.xml"
+    }
+]

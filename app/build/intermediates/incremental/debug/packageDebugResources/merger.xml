@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res"><file name="ic_launcher_foreground" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="ic_nav_courses" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\drawable\ic_nav_courses.xml" qualifiers="" type="drawable"/><file name="ic_nav_map" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\drawable\ic_nav_map.xml" qualifiers="" type="drawable"/><file name="ic_nav_profile" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\drawable\ic_nav_profile.xml" qualifiers="" type="drawable"/><file name="ic_nav_stories" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\drawable\ic_nav_stories.xml" qualifiers="" type="drawable"/><file name="ic_story_placeholder" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\drawable\ic_story_placeholder.xml" qualifiers="" type="drawable"/><file name="activity_main" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="fragment_courses" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\layout\fragment_courses.xml" qualifiers="" type="layout"/><file name="fragment_map" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\layout\fragment_map.xml" qualifiers="" type="layout"/><file name="fragment_profile" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\layout\fragment_profile.xml" qualifiers="" type="layout"/><file name="fragment_stories" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\layout\fragment_stories.xml" qualifiers="" type="layout"/><file name="item_course" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\layout\item_course.xml" qualifiers="" type="layout"/><file name="item_story" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\layout\item_story.xml" qualifiers="" type="layout"/><file name="bottom_nav_menu" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\menu\bottom_nav_menu.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\mipmap\ic_launcher.xml" qualifiers="" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\mipmap\ic_launcher_round.xml" qualifiers="" type="mipmap"/><file name="ic_launcher" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="nav_graph" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\navigation\nav_graph.xml" qualifiers="" type="navigation"/><file path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\values\colors.xml" qualifiers=""><color name="namma_primary">#2563EB</color><color name="namma_primary_dark">#1D4ED8</color><color name="namma_primary_light">#DBEAFE</color><color name="namma_secondary">#10B981</color><color name="namma_secondary_dark">#059669</color><color name="background">#F8FAFC</color><color name="surface">#FFFFFF</color><color name="text_primary">#0F172A</color><color name="text_secondary">#475569</color><color name="white">#FFFFFF</color><color name="black">#000000</color></file><file path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\values\ic_launcher_background.xml" qualifiers=""><color name="ic_launcher_background">#1E6F5C</color></file><file path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">Namma-Skill</string><string name="google_maps_key">YOUR_API_KEY_HERE</string><string name="nav_courses">Courses</string><string name="nav_centers">Centers</string><string name="nav_stories">Stories</string><string name="nav_profile">Profile</string><string name="filter_trade">Trade</string><string name="filter_duration">Duration</string><string name="short_term">Short term</string><string name="long_term">Long term</string><string name="apply">Apply</string><string name="interested">I\'m interested</string><string name="share_summary">Share summary</string><string name="confirm_apply">Confirm apply</string><string name="open_google_maps_title">Open centers in Google Maps</string><string name="open_google_maps_body">To avoid Google Cloud billing/API keys inside this app, we will open the external Google Maps app directly.</string><string name="open_google_maps">Open Google Maps</string><string name="hero_title">Find job-ready courses near you</string><string name="hero_subtitle">Explore upcoming batches, filter by trade and duration, and apply in one tap.</string><string name="search_hint">Search course, center, eligibility…</string></file><file path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.NammaSkill" parent="Theme.Material3.DayNight.NoActionBar">
+
+        
+
+        <item name="colorPrimary">@color/namma_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+
+        <item name="colorSecondary">@color/namma_secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        
+
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+
+        
+
+        <item name="android:statusBarColor" ns1:targetApi="l">@android:color/transparent</item>
+
+        <item name="android:navigationBarColor" ns1:targetApi="l">@android:color/white</item>
+
+        
+
+        <item name="textInputStyle">@style/Widget.Material3.TextInputLayout.OutlinedBox</item>
+
+        
+
+        <item name="materialButtonStyle">@style/Widget.Material3.Button</item>
+
+        
+
+        <item name="materialCardViewStyle">@style/Widget.Material3.CardView.Elevated</item>
+
+        
+
+        <item name="colorControlHighlight">@color/namma_primary_light</item>
+
+    </style></file><file path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.NammaSkill" parent="Theme.Material3.DayNight.NoActionBar">
+
+        
+
+        <item name="colorPrimary">@color/namma_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+
+        <item name="colorSecondary">@color/namma_secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        
+
+        <item name="android:windowBackground">@color/background</item>
+
+        
+
+        <item name="colorSurface">@color/surface</item>
+
+        
+
+        <item name="android:statusBarColor" ns1:targetApi="l">@android:color/transparent</item>
+
+        
+
+        <item name="android:navigationBarColor" ns1:targetApi="l">@color/background</item>
+
+        
+
+        <item name="colorControlHighlight">@color/namma_primary_light</item>
+
+        
+
+        <item name="materialButtonStyle">
+            @style/Widget.Material3.Button
+        </item>
+
+        
+
+        <item name="materialCardViewStyle">
+            @style/Widget.Material3.CardView.Elevated
+        </item>
+
+    </style></file><file name="backup_rules" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\shrey\Desktop\NammaSkill_modern\NammaSkill\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>

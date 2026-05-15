@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.nammaskill.app-mergeDebugResources-62:/layout/fragment_courses.xml",
+        "source": "com.nammaskill.app-main-65:/layout/fragment_courses.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-mergeDebugResources-62:/layout/item_story.xml",
+        "source": "com.nammaskill.app-main-65:/layout/item_story.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-mergeDebugResources-62:/layout/fragment_stories.xml",
+        "source": "com.nammaskill.app-main-65:/layout/fragment_stories.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-mergeDebugResources-62:/layout/fragment_map.xml",
+        "source": "com.nammaskill.app-main-65:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-mergeDebugResources-62:/layout/fragment_profile.xml",
+        "source": "com.nammaskill.app-main-65:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-mergeDebugResources-62:/layout/item_course.xml",
+        "source": "com.nammaskill.app-main-65:/layout/item_course.xml"
+    },
+    {
+        "merged": "com.nammaskill.app-mergeDebugResources-62:/layout/activity_main.xml",
+        "source": "com.nammaskill.app-main-65:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,48 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- MAIN APP THEME -->
+
+    <style name="Theme.NammaSkill" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- PRIMARY COLORS -->
+
+        <item name="colorPrimary">@color/namma_primary</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- SECONDARY -->
+
+        <item name="colorSecondary">@color/namma_secondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- BACKGROUNDS -->
+
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+
+        <!-- STATUS BAR -->
+
+        <item name="android:statusBarColor"
+            tools:targetApi="l">@android:color/transparent</item>
+
+        <item name="android:navigationBarColor"
+            tools:targetApi="l">@android:color/white</item>
+
+        <!-- TEXT INPUTS -->
+
+        <item name="textInputStyle">@style/Widget.Material3.TextInputLayout.OutlinedBox</item>
+
+        <!-- BUTTON STYLE -->
+
+        <item name="materialButtonStyle">@style/Widget.Material3.Button</item>
+
+        <!-- CARD STYLE -->
+
+        <item name="materialCardViewStyle">@style/Widget.Material3.CardView.Elevated</item>
+
+        <!-- RIPPLE -->
+
+        <item name="colorControlHighlight">@color/namma_primary_light</item>
+
+    </style>
+
+</resources>
