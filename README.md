@@ -77,7 +77,7 @@ Make sure the following software is installed:
 1. Download or clone the repository:
 
 ```bash
-git clone https://github.com/your-username/NammaSkill.git
+git clone https://github.com/Shreyas-git-05/Namma-Skills.git
 ```
 
 2. Open Android Studio.
@@ -122,7 +122,13 @@ Build > Generate APK
 
 # Screenshots
 
-Add application screenshots in this section.
+
+<img width="506" height="1125" alt="image" src="https://github.com/user-attachments/assets/a0344411-6eb8-4191-b1ca-d2751590f088" />
+<img width="506" height="1125" alt="image" src="https://github.com/user-attachments/assets/7904b07e-cda8-4826-bd07-f60e618de9a5" />
+<img width="507" height="1125" alt="image" src="https://github.com/user-attachments/assets/c2f4edf9-4b94-4eae-8349-12b57283606c" />
+<img width="506" height="1115" alt="image" src="https://github.com/user-attachments/assets/d7bb22ce-9275-4023-be0d-d52b49fe8081" />
+<img width="506" height="1125" alt="image" src="https://github.com/user-attachments/assets/3a2fcdf8-94f7-455c-8512-d35a9714c235" />
+
 
 Example:
 
