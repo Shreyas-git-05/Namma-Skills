@@ -123,7 +123,7 @@ Build > Generate APK
 # Screenshots
 
 
-<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/a0344411-6eb8-4191-b1ca-d2751590f088" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/a0344411-6eb8-4191-b1ca-d2751590f088" />
 <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/7904b07e-cda8-4826-bd07-f60e618de9a5" />
 <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/c2f4edf9-4b94-4eae-8349-12b57283606c" />
 <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/d7bb22ce-9275-4023-be0d-d52b49fe8081" />
